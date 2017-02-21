@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from unittest import TestCase
-from source_code_1.quadrado import Quadrado
+from source_code.quadrado import Quadrado
 
 class TestQuadrado(TestCase):
     
